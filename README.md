@@ -19,6 +19,12 @@ This Todo App allows users to:
 
 ---
 
+## ✅ Homepage
+
+![Homepage](./assets/homepage.png)
+
+---
+
 ## 🛠️ Built With
 - ⚛️ React (Vite)
 - 🛣️ React Router
